@@ -1,0 +1,14 @@
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\practice\bin\Debug\netcoreapp3.1\practice.exe
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\practice\bin\Debug\netcoreapp3.1\practice.deps.json
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\practice\bin\Debug\netcoreapp3.1\practice.runtimeconfig.json
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\practice\bin\Debug\netcoreapp3.1\practice.runtimeconfig.dev.json
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\practice\bin\Debug\netcoreapp3.1\practice.dll
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\practice\bin\Debug\netcoreapp3.1\practice.pdb
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\practice\obj\Debug\netcoreapp3.1\practice.csproj.AssemblyReference.cache
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\practice\obj\Debug\netcoreapp3.1\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\practice\obj\Debug\netcoreapp3.1\practice.AssemblyInfoInputs.cache
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\practice\obj\Debug\netcoreapp3.1\practice.AssemblyInfo.cs
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\practice\obj\Debug\netcoreapp3.1\practice.csproj.CoreCompileInputs.cache
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\practice\obj\Debug\netcoreapp3.1\practice.dll
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\practice\obj\Debug\netcoreapp3.1\practice.pdb
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\practice\obj\Debug\netcoreapp3.1\practice.genruntimeconfig.cache

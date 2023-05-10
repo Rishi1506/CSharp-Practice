@@ -1,0 +1,13 @@
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example16\bin\Debug\netcoreapp3.1\Example16.exe
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example16\bin\Debug\netcoreapp3.1\Example16.deps.json
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example16\bin\Debug\netcoreapp3.1\Example16.runtimeconfig.json
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example16\bin\Debug\netcoreapp3.1\Example16.runtimeconfig.dev.json
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example16\bin\Debug\netcoreapp3.1\Example16.dll
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example16\bin\Debug\netcoreapp3.1\Example16.pdb
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example16\obj\Debug\netcoreapp3.1\Example16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example16\obj\Debug\netcoreapp3.1\Example16.AssemblyInfoInputs.cache
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example16\obj\Debug\netcoreapp3.1\Example16.AssemblyInfo.cs
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example16\obj\Debug\netcoreapp3.1\Example16.csproj.CoreCompileInputs.cache
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example16\obj\Debug\netcoreapp3.1\Example16.dll
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example16\obj\Debug\netcoreapp3.1\Example16.pdb
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example16\obj\Debug\netcoreapp3.1\Example16.genruntimeconfig.cache

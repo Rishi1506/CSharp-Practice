@@ -1,0 +1,13 @@
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example10\obj\Debug\netcoreapp3.1\Example10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example10\obj\Debug\netcoreapp3.1\Example10.AssemblyInfoInputs.cache
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example10\obj\Debug\netcoreapp3.1\Example10.AssemblyInfo.cs
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example10\obj\Debug\netcoreapp3.1\Example10.csproj.CoreCompileInputs.cache
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example10\bin\Debug\netcoreapp3.1\Example10.exe
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example10\bin\Debug\netcoreapp3.1\Example10.deps.json
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example10\bin\Debug\netcoreapp3.1\Example10.runtimeconfig.json
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example10\bin\Debug\netcoreapp3.1\Example10.runtimeconfig.dev.json
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example10\bin\Debug\netcoreapp3.1\Example10.dll
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example10\bin\Debug\netcoreapp3.1\Example10.pdb
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example10\obj\Debug\netcoreapp3.1\Example10.dll
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example10\obj\Debug\netcoreapp3.1\Example10.pdb
+C:\Users\RISHITHA SINGH\Desktop\c sharp\practice\Example10\obj\Debug\netcoreapp3.1\Example10.genruntimeconfig.cache
